@@ -1,0 +1,35 @@
+
+user
+
+1. username
+2. phone number
+3. roles
+
+
+kategori produk
+1. nama
+
+produk
+1. nama produk
+2. harga produk
+3. deskripsi produk
+4. tags
+5. Kategori Produk
+
+Galeri produk
+1. produk
+2. url
+
+Transaksi
+1. user
+2. alamat
+3. metode bayar
+4. total harga
+5. total pengiriman
+6. status
+
+Detail Transaksi
+1. user
+2. produk
+3. Transaksi
+4. kuantitas
